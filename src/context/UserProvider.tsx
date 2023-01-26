@@ -1,5 +1,6 @@
-import { UserContext, UserContextValue } from "./UserContext";
 import { useState } from "react";
+
+import { UserContext, UserContextValue } from "./UserContext";
 
 interface Props {
   children: JSX.Element;
